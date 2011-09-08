@@ -41,9 +41,9 @@ tmp/*
 /capybara-*.html
 /gems
 /rerun.txt
-/spec/requests
-/spec/routing
-/spec/views
+# /spec/requests
+# /spec/routing
+# /spec/views
 /specifications
 mkmf.log #capistrano on windows artifact
 
