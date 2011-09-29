@@ -7,7 +7,7 @@
 /vendor/ruby
 
 # Ignore Gemfile.lock if installing gems into /vendor/bundle or building a gem.
-Gemfile.lock
+# Gemfile.lock
 
 # minimal Rails specific artifacts
 db/*.sqlite3
