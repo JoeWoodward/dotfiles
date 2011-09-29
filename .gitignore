@@ -5,6 +5,7 @@
 # bundler state
 /.bundle
 /vendor/bundle/
+/vendor/ruby
 
 # Ignore Gemfile.lock if installing gems into /vendor/bundle or building a gem.
 # Gemfile.lock
