@@ -11,7 +11,6 @@
 
 # minimal Rails specific artifacts
 db/*.sqlite3
-/log/*
 tmp/*
 
 # various artifacts
@@ -30,7 +29,7 @@ tmp/*
 /doc/app/
 /doc/features.html
 /doc/specs.html
-/log/*
+*.log
 /public/cache
 /public/stylesheets/compiled
 /public/system
